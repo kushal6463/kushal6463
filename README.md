@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning PyTorch for deep learning and getting into web development .<br> I’m looking to collaborate on AI projects, especially those involving machine learning or innovative app development. <br>Let’s build something cool together!<br>
+I’m currently learning PyTorch for deep learning and getting into Web development .<br> I’m looking to collaborate on AI projects, especially those involving Machine Learning or innovative Web development. <br>Let’s build something cool together!<br>
 
 
 ## 🌐 Socials:
