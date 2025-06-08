@@ -60,5 +60,5 @@ I’m a final-year AI & Data Science student with a strong interest in building 
 <a href="https://www.leetcode.com/kushals043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushals043" height="30" width="40" /></a>
 </p>
 
----
+
 Thanks for visiting! Feel free to explore my projects or reach out for collaborations.
